@@ -1,0 +1,434 @@
+[
+    {
+        "nome": "Dr. João Silva",
+        "data_nascimento": "1980-05-15",
+        "especialidades": {
+            "pediatra": true,
+            "clinico_geral": true,
+            "dermatologia:": false,
+            "gastroenterologia": false
+        },
+        "tipo": "Generalista",
+        "contato": {
+            "telefone": "(11)9992-1231",
+            "email": "Dr.JoaoSilva@gmail.com"
+        },
+        "documentos": {
+            "CRM": "123456-SP",
+            "CPF": "455.564.452-52",
+            "RG": "65.655.454-07",
+            "CNES": "1234567"
+        },
+        "endereco": {
+            "rua": "Rua das Flores",
+            "numero": 123,
+            "bairro": "Centro",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01000-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "08:00-12:00",
+            "terca": "08:00-12:00",
+            "quarta": "08:00-12:00",
+            "quinta": "08:00-12:00",
+            "sexta": "08:00-12:00"
+        }
+    },
+    {
+        "nome": "Dr. Maria Oliveira",
+        "data_nascimento": "1975-03-22",
+        "especialidades": {
+            "pediatra": false,
+            "clinico_geral": true,
+            "dermatologia": true,
+            "gastroenterologia": false
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(11)9888-5678",
+            "email": "Dr.MariaOliveira@gmail.com"
+        },
+        "documentos": {
+            "CRM": "654321-SP",
+            "CPF": "123.456.789-00",
+            "RG": "12.345.678-9",
+            "CNES": "7654321"
+        },
+        "endereco": {
+            "rua": "Avenida Paulista",
+            "numero": 456,
+            "bairro": "Bela Vista",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "cep": "01310-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "14:00-18:00",
+            "terca": "14:00-18:00",
+            "quarta": "14:00-18:00",
+            "quinta": "14:00-18:00",
+            "sexta": "14:00-18:00"
+        }
+    },
+    {
+        "nome": "Dr. Carlos Pereira",
+        "data_nascimento": "1982-07-10",
+        "especialidades": {
+            "pediatra": false,
+            "clinico_geral": false,
+            "dermatologia": false,
+            "gastroenterologia": true
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(21)9876-5432",
+            "email": "Dr.CarlosPereira@gmail.com"
+        },
+        "documentos": {
+            "CRM": "789012-RJ",
+            "CPF": "987.654.321-00",
+            "RG": "98.765.432-1",
+            "CNES": "8901234"
+        },
+        "endereco": {
+            "rua": "Rua do Carmo",
+            "numero": 789,
+            "bairro": "Centro",
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "cep": "20010-020"
+        },
+        "horario_de_atendimento": {
+            "segunda": "09:00-13:00",
+            "terca": "09:00-13:00",
+            "quarta": "09:00-13:00",
+            "quinta": "09:00-13:00",
+            "sexta": "09:00-13:00"
+        }
+    },
+    {
+        "nome": "Dr. Ana Costa",
+        "data_nascimento": "1990-11-05",
+        "especialidades": {
+            "pediatra": true,
+            "clinico_geral": false,
+            "dermatologia": false,
+            "gastroenterologia": false
+        },
+        "tipo": "Generalista",
+        "contato": {
+            "telefone": "(31)9123-4567",
+            "email": "Dr.AnaCosta@gmail.com"
+        },
+        "documentos": {
+            "CRM": "345678-MG",
+            "CPF": "321.654.987-00",
+            "RG": "32.165.498-7",
+            "CNES": "3456789"
+        },
+        "endereco": {
+            "rua": "Rua da Liberdade",
+            "numero": 321,
+            "bairro": "Savassi",
+            "cidade": "Belo Horizonte",
+            "estado": "MG",
+            "cep": "30140-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "08:00-12:00",
+            "terca": "08:00-12:00",
+            "quarta": "08:00-12:00",
+            "quinta": "08:00-12:00",
+            "sexta": "08:00-12:00"
+        }
+    },
+    {
+        "nome": "Dr. Pedro Almeida",
+        "data_nascimento": "1985-02-18",
+        "especialidades": {
+            "pediatra": false,
+            "clinico_geral": true,
+            "dermatologia": false,
+            "gastroenterologia": true
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(41)9876-1234",
+            "email": "Dr.PedroAlmeida@gmail.com"
+        },
+        "documentos": {
+            "CRM": "567890-PR",
+            "CPF": "654.321.987-00",
+            "RG": "65.432.198-7",
+            "CNES": "5678901"
+        },
+        "endereco": {
+            "rua": "Rua XV de Novembro",
+            "numero": 987,
+            "bairro": "Centro",
+            "cidade": "Curitiba",
+            "estado": "PR",
+            "cep": "80020-310"
+        },
+        "horario_de_atendimento": {
+            "segunda": "10:00-14:00",
+            "terca": "10:00-14:00",
+            "quarta": "10:00-14:00",
+            "quinta": "10:00-14:00",
+            "sexta": "10:00-14:00"
+        }
+    },
+    {
+        "nome": "Dr. Fernanda Lima",
+        "data_nascimento": "1978-09-12",
+        "especialidades": {
+            "pediatra": true,
+            "clinico_geral": false,
+            "dermatologia": true,
+            "gastroenterologia": false
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(51)9123-9876",
+            "email": "Dr.FernandaLima@gmail.com"
+        },
+        "documentos": {
+            "CRM": "890123-RS",
+            "CPF": "789.456.123-00",
+            "RG": "78.945.612-3",
+            "CNES": "8901234"
+        },
+        "endereco": {
+            "rua": "Rua dos Andradas",
+            "numero": 654,
+            "bairro": "Centro Histórico",
+            "cidade": "Porto Alegre",
+            "estado": "RS",
+            "cep": "90020-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "13:00-17:00",
+            "terca": "13:00-17:00",
+            "quarta": "13:00-17:00",
+            "quinta": "13:00-17:00",
+            "sexta": "13:00-17:00"
+        }
+    },
+    {
+        "nome": "Dr. Rafael Souza",
+        "data_nascimento": "1983-06-25",
+        "especialidades": {
+            "pediatra": false,
+            "clinico_geral": true,
+            "dermatologia": false,
+            "gastroenterologia": false
+        },
+        "tipo": "Generalista",
+        "contato": {
+            "telefone": "(71)9987-6543",
+            "email": "Dr.RafaelSouza@gmail.com"
+        },
+        "documentos": {
+            "CRM": "234567-BA",
+            "CPF": "123.789.456-00",
+            "RG": "12.378.945-6",
+            "CNES": "2345678"
+        },
+        "endereco": {
+            "rua": "Rua Chile",
+            "numero": 321,
+            "bairro": "Pelourinho",
+            "cidade": "Salvador",
+            "estado": "BA",
+            "cep": "40020-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "08:00-12:00",
+            "terca": "08:00-12:00",
+            "quarta": "08:00-12:00",
+            "quinta": "08:00-12:00",
+            "sexta": "08:00-12:00"
+        }
+    },
+    {
+        "nome": "Dr. Juliana Mendes",
+        "data_nascimento": "1992-04-30",
+        "especialidades": {
+            "pediatra": true,
+            "clinico_geral": false,
+            "dermatologia": false,
+            "gastroenterologia": true
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(61)9876-5432",
+            "email": "Dr.JulianaMendes@gmail.com"
+        },
+        "documentos": {
+            "CRM": "678901-DF",
+            "CPF": "456.123.789-00",
+            "RG": "45.612.378-9",
+            "CNES": "6789012"
+        },
+        "endereco": {
+            "rua": "SQS 308",
+            "numero": 123,
+            "bairro": "Asa Sul",
+            "cidade": "Brasília",
+            "estado": "DF",
+            "cep": "70350-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "14:00-18:00",
+            "terca": "14:00-18:00",
+            "quarta": "14:00-18:00",
+            "quinta": "14:00-18:00",
+            "sexta": "14:00-18:00"
+        }
+    },
+    {
+        "nome": "Dr. Lucas Rocha",
+        "data_nascimento": "1987-08-14",
+        "especialidades": {
+            "pediatra": false,
+            "clinico_geral": true,
+            "dermatologia": true,
+            "gastroenterologia": false
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(85)9123-4567",
+            "email": "Dr.LucasRocha@gmail.com"
+        },
+        "documentos": {
+            "CRM": "345678-CE",
+            "CPF": "321.654.987-00",
+            "RG": "32.165.498-7",
+            "CNES": "3456789"
+        },
+        "endereco": {
+            "rua": "Rua Dragão do Mar",
+            "numero": 456,
+            "bairro": "Praia de Iracema",
+            "cidade": "Fortaleza",
+            "estado": "CE",
+            "cep": "60060-390"
+        },
+        "horario_de_atendimento": {
+            "segunda": "09:00-13:00",
+            "terca": "09:00-13:00",
+            "quarta": "09:00-13:00",
+            "quinta": "09:00-13:00",
+            "sexta": "09:00-13:00"
+        }
+    },
+    {
+        "nome": "Dr. Mariana Torres",
+        "data_nascimento": "1989-12-20",
+        "especialidades": {
+            "pediatra": true,
+            "clinico_geral": false,
+            "dermatologia": false,
+            "gastroenterologia": true
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(62)9987-6543",
+            "email": "Dr.MarianaTorres@gmail.com"
+        },
+        "documentos": {
+            "CRM": "567890-GO",
+            "CPF": "654.321.987-00",
+            "RG": "65.432.198-7",
+            "CNES": "5678901"
+        },
+        "endereco": {
+            "rua": "Rua 9",
+            "numero": 789,
+            "bairro": "Setor Oeste",
+            "cidade": "Goiânia",
+            "estado": "GO",
+            "cep": "74110-100"
+        },
+        "horario_de_atendimento": {
+            "segunda": "10:00-14:00",
+            "terca": "10:00-14:00",
+            "quarta": "10:00-14:00",
+            "quinta": "10:00-14:00",
+            "sexta": "10:00-14:00"
+        }
+    },
+    {
+        "nome": "Dr. Eduardo Nunes",
+        "data_nascimento": "1981-03-11",
+        "especialidades": {
+            "pediatra": false,
+            "clinico_geral": true,
+            "dermatologia": false,
+            "gastroenterologia": false
+        },
+        "tipo": "Generalista",
+        "contato": {
+            "telefone": "(27)9876-5432",
+            "email": "Dr.EduardoNunes@gmail.com"
+        },
+        "documentos": {
+            "CRM": "890123-ES",
+            "CPF": "789.456.123-00",
+            "RG": "78.945.612-3",
+            "CNES": "8901234"
+        },
+        "endereco": {
+            "rua": "Rua Sete de Setembro",
+            "numero": 654,
+            "bairro": "Centro",
+            "cidade": "Vitória",
+            "estado": "ES",
+            "cep": "29015-000"
+        },
+        "horario_de_atendimento": {
+            "segunda": "08:00-12:00",
+            "terca": "08:00-12:00",
+            "quarta": "08:00-12:00",
+            "quinta": "08:00-12:00",
+            "sexta": "08:00-12:00"
+        }
+    },
+    {
+        "nome": "Dr. Bianca Ferreira",
+        "data_nascimento": "1995-07-07",
+        "especialidades": {
+            "pediatra": true,
+            "clinico_geral": false,
+            "dermatologia": true,
+            "gastroenterologia": false
+        },
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "(92)9123-9876",
+            "email": "Dr.BiancaFerreira@gmail.com"
+        },
+        "documentos": {
+            "CRM": "234567-AM",
+            "CPF": "123.789.456-00",
+            "RG": "12.378.945-6",
+            "CNES": "2345678"
+        },
+        "endereco": {
+            "rua": "Rua dos Barés",
+            "numero": 321,
+            "bairro": "Centro",
+            "cidade": "Manaus",
+            "estado": "AM",
+            "cep": "69005-020"
+        },
+        "horario_de_atendimento": {
+            "segunda": "13:00-17:00",
+            "terca": "13:00-17:00",
+            "quarta": "13:00-17:00",
+            "quinta": "13:00-17:00",
+            "sexta": "13:00-17:00"
+        }
+    }
+]
